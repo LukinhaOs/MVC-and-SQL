@@ -1,0 +1,7 @@
+C:\Arquivos\Projetos\MVC-and-SQL\Consultas_SQL\ConexaoBD\bin\Debug\ConexaoBD.exe.config
+C:\Arquivos\Projetos\MVC-and-SQL\Consultas_SQL\ConexaoBD\bin\Debug\ConexaoBD.exe
+C:\Arquivos\Projetos\MVC-and-SQL\Consultas_SQL\ConexaoBD\bin\Debug\ConexaoBD.pdb
+C:\Arquivos\Projetos\MVC-and-SQL\Consultas_SQL\ConexaoBD\obj\Debug\ConexaoBD.csproj.AssemblyReference.cache
+C:\Arquivos\Projetos\MVC-and-SQL\Consultas_SQL\ConexaoBD\obj\Debug\ConexaoBD.csproj.CoreCompileInputs.cache
+C:\Arquivos\Projetos\MVC-and-SQL\Consultas_SQL\ConexaoBD\obj\Debug\ConexaoBD.exe
+C:\Arquivos\Projetos\MVC-and-SQL\Consultas_SQL\ConexaoBD\obj\Debug\ConexaoBD.pdb
